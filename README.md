@@ -1,2 +1,5 @@
-# ANTMINER-CrazyClimber
-Crazy Climber Arcade synthesized on an ANTMINER S9 ZYNQ-7010 FPGA Board.
+# ANTMINER - Crazy Climber
+![Model](ANTMINER-CrazyClimber.jpg)
+
+Crazy Climber Arcade vhdl code ported to an AntMiner S9 ZYNQ-7010 FPGA Board by PinballWiz 2026.  
+Works with VGA Monitor. Code from DarFPGA.
